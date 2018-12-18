@@ -1,4 +1,7 @@
 # Nanakusagayu Framework
+[![Build Status](https://travis-ci.org/tamurashingo/NanakusagayuFramework.svg?branch=master)](https://travis-ci.org/tamurashingo/NanakusagayuFramework)
+[![License: MIT](https://img.shields.io/badge/License-MIT-brightgreen.svg)](https://opensource.org/licenses/MIT)
+
 
 ## usage
 
@@ -36,12 +39,12 @@ public class Main {
 }
 ```
 
-# Author
+## Author
 - tamura shingo
 
-# Copyright
+## Copyright
 Copyright (c) 2018 tamura shingo
 
-# LICENSE
+## LICENSE
 License under the MIT License.
 
